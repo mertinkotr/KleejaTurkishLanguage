@@ -1,0 +1,28 @@
+Kleeja'nýn kurulu olduðu klasör dizini içerisinde bulunan
+"lang" klasörünün içerisine "tr" adýndaki klasörümüzü kopyalýyoruz.
+
+Ýþlem bu kadar.
+
+
+Kleeja Geliþtirici Ekibi
+www.kleeja.com
+
+
+Türkçe Çeviri: Kasým Mert ÞENTÜRK --> www.mertsenturk.net
+
+
+///--ENGLISH---///
+
+We 
+copy our folder called "en" into the "lang" folder in the folder directory where Kleeja is installed . 
+
+That's it. 
+
+
+Kleeja Developer Team 
+www.kleeja.com 
+
+
+Turkish Translation: Kasým Mert ÞENTÜRK -> www.mertsenturk.net
+
+https://cevirsozluk.com/
