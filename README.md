@@ -10,4 +10,5 @@ Eğer buradaki adımları takip ederek bir sonuca varamadıysanız  [BURADAN](ht
 
 ## More Information:
 https://mertsenturk.net/
+
 https://www.youtube.com/channel/UC9p88PQaujiCniSJ2B5l0Lw?view_as=subscriber
